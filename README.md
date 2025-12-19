@@ -8,7 +8,7 @@ create a css file and in settings.json file add this code :
 
 ```json
   "vscode_custom_css.imports": [
-        "file:///Users/gokulprasath/Desktop/LPU/ob/vs-code.css"
+        "file:///path to css file and add .css extension"
     ],
 ```
 
